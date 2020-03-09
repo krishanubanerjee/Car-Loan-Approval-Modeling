@@ -29,5 +29,5 @@ Phase 2 Modeling
 - Random Forest
 - XGboost
 - Is there any improvement ?
-Implementation on Test and Final Submission
-Conclusion and Future Work
+- Implementation on Test 
+- Conclusion and Future Work
